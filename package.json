@@ -17,7 +17,7 @@
     "@types/webpack": "^4.4.34",
     "axios": "^0.18.0",
     "ctx-react": "^1.1.6",
-    "electron": "^4.0.3",
+    "electron": "^18.3.7",
     "react-router-dom": "^5.0.1"
   },
   "devDependencies": {
